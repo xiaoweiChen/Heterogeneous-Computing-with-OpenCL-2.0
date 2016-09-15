@@ -8,6 +8,8 @@ Heterogeneous Computing with OpenCL2.0
 
 ## 本书概述
 
+作为对《Heterogeneour Computing with OpenCL2.0 (Thrid Edition)》英文版的中文翻译。
+
 Heterogeneous Computing with OpenCL 2.0 teaches OpenCL and parallel programming for complex systems that may include a variety of device architectures: multi-core CPUs, GPUs, and fully-integrated Accelerated Processing Units (APUs). This fully-revised edition includes the latest enhancements in OpenCL 2.0 including:
 - Shared virtual memory to increase programming flexibility and reduce data transfers that consume resources
 - Dynamic parallelism which reduces processor load and avoids bottlenecks 
