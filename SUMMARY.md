@@ -1,7 +1,6 @@
 # 目录
 
 * [序言](content/Foreword/Foreword-chinese.md)
-* [鸣谢]()
 * [第1章 简介异构计算]()
 	* [1.1]()
 	* [1.2]()
