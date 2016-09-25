@@ -5,7 +5,7 @@
 	* [1.1 关于异构计算](content/chapter1/1.1-chinese.md)
 	* [1.2 本书目的](content/chapter1/1.2-chinese.md)
 	* [1.3 并行思想](content/chapter1/1.3-chinese.md)
-	* [1.4 并发和并行编程模型]()
+	* [1.4 并发和并行编程模型](content/chapter1/1.4-chinese.md)
 	* [1.5 线程和共享内存]()
 	* [1.6 消息通讯机制]()
 	* [1.7 不同颗粒度的并行性]()
