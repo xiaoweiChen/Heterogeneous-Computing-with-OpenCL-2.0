@@ -44,7 +44,3 @@ Dana Schaa在加州州立理工大学(Cal Poly，位于神路易斯奥比斯波�
 
 加入AMD公司之前，她在帝国学院计算机系做博士后研究。2006年，在先进计算方面获得理学硕士学位。2010年，在计算机科学方面获得博士学位。这两个学位均由Daniel Rueckert教授授予(Daniel Rueckert教授曾在医学图像分析领域获得“2010年度世界最佳导师”称号)。2009年，她还曾在鹿特丹Erasmus医学中心作为生物医学成像组成员，短暂的工作过一段时间。
 
-##本书相关
-
-- 翻译地址: https://github.com/xiaoweiChen/Heterogeneous_computing_with_opencl2_0
-
