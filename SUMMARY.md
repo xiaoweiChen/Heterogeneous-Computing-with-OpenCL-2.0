@@ -8,7 +8,7 @@
 	* [1.4 并发和并行编程模型](content/chapter1/1.4-chinese.md)
 	* [1.5 线程和共享内存](content/chapter1/1.5-chinese.md)
 	* [1.6 消息通讯机制](content/chapter1/1.6-chinese.md)
-	* [1.7 不同颗粒度的并行性]()
+	* [1.7 并行性的粒度]()
 	* [1.8 使用OpenCL进行异构计算]()
 	* [1.9 本书结构]()
 * [第2章 设备架构]()
