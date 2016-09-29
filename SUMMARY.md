@@ -10,7 +10,7 @@
 	* [1.6 消息通讯机制](content/chapter1/1.6-chinese.md)
 	* [1.7 并行性的粒度](content/chapter1/1.7-chinese.md)
 	* [1.8 使用OpenCL进行异构计算](content/chapter1/1.8-chinese.md)
-	* [1.9 本书结构]()
+	* [1.9 本书结构](content/chapter1/1.9-chinese.md)
 * [第2章 设备架构]()
 	* [2.1]()
 	* [2.2]()
