@@ -13,7 +13,7 @@
 	* [1.9 本书结构](content/chapter1/1.9-chinese.md)
 * [第2章 设备架构](content/chapter2/2.0-chinese.md)
 	* [2.1 介绍](content/chapter2/2.1-chinese.md)
-	* [2.2 权衡硬件]()
+	* [2.2 硬件的权衡](content/chapter2/2.2-chinese.md)
 	* [2.3 架构设计空间]()
 	* [2.4 小结]()
 * [第3章 介绍OpenCL]()
