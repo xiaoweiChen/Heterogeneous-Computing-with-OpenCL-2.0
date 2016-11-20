@@ -1,0 +1,16 @@
+{
+    "title": "《Heterogeneous Computing with OpenCL2.0 - Third Edition》中文版",
+	
+	"author" : "陈晓伟 chenxiaowei",
+	
+    "description":"作为对《Heterogeneour Computing with OpenCL2.0 (Thrid Edition)》英文版的中文翻译。",
+	
+	"language":"zh-hans",
+	
+	"direction":"ltr",
+	
+	"plugins": [
+		"katex",
+		"ace"
+	]
+}
