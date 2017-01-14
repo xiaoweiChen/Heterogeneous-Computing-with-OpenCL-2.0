@@ -18,7 +18,7 @@
 	* [2.4 小结](content/chapter2/2.4-chinese.md)
 * [第3章 介绍OpenCL](content/chapter3/3.0-chinese.md)
 	* [3.1 简介OpenCL](content/chapter3/3.1-chinese.md)
-	* [3.2 OpenCL平台模型]()
+	* [3.2 OpenCL平台模型](content/chapter3/3.2-chinese.md)
 	* [3.1 OpenCL执行模型]()
 	* [3.4 Kenrel和OpenCL编程模型]()
 	* [3.5 OpenCL内存模型]()
