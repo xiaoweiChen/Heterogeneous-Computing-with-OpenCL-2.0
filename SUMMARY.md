@@ -20,7 +20,7 @@
 	* [3.1 简介OpenCL](content/chapter3/3.1-chinese.md)
 	* [3.2 OpenCL平台模型](content/chapter3/3.2-chinese.md)
 	* [3.3 OpenCL执行模型](content/chapter3/3.3-chinese.md)
-	* [3.4 Kenrel和OpenCL编程模型]()
+	* [3.4 内核和OpenCL编程模型](content/chapter3/3.4-chinese.md)
 	* [3.5 OpenCL内存模型]()
 	* [3.6 OpenCL运行时(例子)]()
 	* [3.7 使用OpenCL C++ Wapper进行向量加法]()
