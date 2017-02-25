@@ -30,7 +30,7 @@
 	* [4.2 直方图](content/chapter4/4.2-chinese.md)
 	* [4.3 图像旋转](content/chapter4/4.3-chinese.md)
 	* [4.4 图像卷积](content/chapter4/4.4-chinese.md)
-	* [4.5 生产者-消费者]()
+	* [4.5 生产者-消费者](content/chapter4/4.5-chinese.md)
 	* [4.6 基本功能函数]()
 	* [4.7 本章总结]()
 * [第5章 OpenCL运行时和并发模型]()
