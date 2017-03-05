@@ -1,5 +1,5 @@
 
-Heterogeneous Computing with OpenCL2.0
+Heterogeneous Computing with OpenCL 2.0
 =========================
 *Third Edition*
 -------------------------
