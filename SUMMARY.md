@@ -36,7 +36,7 @@
 * [第5章 OpenCL运行时和并发模型](content/chapter5/5.0-chinese.md)
 	* [5.1 命令和排队模型](content/chapter5/5.1-chinese.md)
 	* [5.2 多命令队列](content/chapter5/5.2-chinese.md)
-	* [5.3 内核执行域:工作项、工作组和NDRange]()
+	* [5.3 内核执行域:工作项、工作组和NDRange](content/chapter5/5.3-chinese.md)
 	* [5.4 原生和内置内核]()
 	* [5.5 设备端排队]()
 	* [5.6 本章总结]()
