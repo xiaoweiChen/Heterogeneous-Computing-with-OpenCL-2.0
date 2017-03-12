@@ -8,7 +8,7 @@ Heterogeneous Computing with OpenCL 2.0
 
 ##本书概述
 
-作为对《Heterogeneour Computing with OpenCL2.0 (Thrid Edition)》英文版的中文翻译。
+作为对《Heterogeneour Computing with OpenCL 2.0 (Thrid Edition)》英文版的中文翻译。
 
 本书将介绍在复杂环境下的OpenCL和并行编程。这里的复杂环境包含多种设备架构，比如：多芯CPU，GPU，以及完全集成的加速处理单元(APU)。在本修订版中将包含OpenCL2.0最新的改进：
 - 共享虚拟内存(*Shared virtual memory*)可增强编程的灵活性，从而能大幅度减少在数据转换上所消耗的资源和精力 
@@ -16,7 +16,7 @@ Heterogeneous Computing with OpenCL 2.0
 - 对图像的支持有很大改善，并且集成OpenGL
 
 为了能在不同的平台上进行工作，OpenCL将有助你充分发挥出异构平台的能力。本书的作者们都是异构计算和OpenCL社区的佼佼者，本书涉及到的内容有：内存空间、优化技能、相关扩展、调试与分析。书中还会涉及多个实际的案例，来展示高性能的算法、异构系统如何分配工作，以及嵌入式领域特殊的语言。当然，也会让读者使用OpenCL来实现一些基本算法的并行版本：
-- 使用最新OpenCL2.0标准的特性，包括内存处理、动态并行和图像特性
+- 使用最新OpenCL 2.0标准的特性，包括内存处理、动态并行和图像特性
 - 对实际的程序进行测试和调试，从而对抽象的模型概念进行理解，并解释使用OpenCL进行并行编程的准则及策略
 - 本书的案例包含：图像分析、Web插件、粒子模拟、视频编辑、性能优化，等等
 
