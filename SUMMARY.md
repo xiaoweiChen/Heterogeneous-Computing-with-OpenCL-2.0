@@ -39,7 +39,7 @@
 	* [5.3 内核执行域:工作项、工作组和NDRange](content/chapter5/5.3-chinese.md)
 	* [5.4 原生和内置内核](content/chapter5/5.4-chinese.md)
 	* [5.5 设备端排队](content/chapter5/5.5-chinese.md)
-	* [5.6 本章总结]()
+	* [5.6 本章总结](content/chapter5/5.6-chinese.md)
 * [第6章 OpenCL主机端内存模型]()
 	* [6.1 内存对象]()
 	* [6.2 内存管理]()
