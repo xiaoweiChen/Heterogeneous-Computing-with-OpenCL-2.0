@@ -41,7 +41,7 @@
 	* [5.5 设备端排队](content/chapter5/5.5-chinese.md)
 	* [5.6 本章总结](content/chapter5/5.6-chinese.md)
 * [第6章 OpenCL主机端内存模型](content/chapter6/6.0-chinese.md)
-	* [6.1 内存对象]()
+	* [6.1 内存对象](content/chapter6/6.1-chinese.md)
 	* [6.2 内存管理]()
 	* [6.3 共享虚拟内存]()
 	* [6.4 本章总结]()
