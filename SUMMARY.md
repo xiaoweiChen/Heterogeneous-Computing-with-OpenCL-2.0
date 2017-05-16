@@ -76,7 +76,7 @@
 	* [10.8 本章总结](content/chapter10/10.8-chinese.md)
 * [第11章 高级语言映射到OpenCL2.0 —— 从编译器作者的角度](content/chapter11/11.0-chinese.md)
 	* [11.1 简要介绍现状](content/chapter11/11.1-chinese.md)
-	* [11.2 C++ AMP的简单介绍](content/chapter11/11.2-chinese.md)
+	* [11.2 简单介绍C++ AMP](content/chapter11/11.2-chinese.md)
 	* [11.3 编译器的目标 —— OpenCL 2.0](content/chapter11/11.3-chinese.md)
 	* [11.4 C++ AMP与OpenCL对比](content/chapter11/11.4-chinese.md)
 	* [11.5 C++ AMP的编译流](content/chapter11/11.5-chinese.md)
