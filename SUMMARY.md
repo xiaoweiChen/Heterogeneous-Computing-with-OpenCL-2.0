@@ -81,7 +81,7 @@
 	* [11.4 C++ AMP与OpenCL对比](content/chapter11/11.4-chinese.md)
 	* [11.5 C++ AMP的编译流](content/chapter11/11.5-chinese.md)
 	* [11.6 编译之后的C++ AMP代码](content/chapter11/11.6-chinese.md)
-	* [11.7 为什么在OpenCL 2.0提出共享虚拟内存](content/chapter11/11.7-chinese.md)
+	* [11.7 OpenCL 2.0提出共享虚拟内存的原因](content/chapter11/11.7-chinese.md)
 	* [11.8 编译器怎样支持C++ AMP的线程块划分](content/chapter11/11.8-chinese.md)
 	* [11.9 地址空间的推演](content/chapter11/11.9-chinese.md)
 	* [11.10 优化数据转移](content/chapter11/11.10-chinese.md)
