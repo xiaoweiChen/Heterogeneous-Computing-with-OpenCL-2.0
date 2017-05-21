@@ -85,7 +85,7 @@
 	* [11.8 编译器怎样支持C++ AMP的线程块划分](content/chapter11/11.8-chinese.md)
 	* [11.9 地址空间的推断](content/chapter11/11.9-chinese.md)
 	* [11.10 优化数据搬运](content/chapter11/11.10-chinese.md)
-	* [11.11 完整例子:二项期权](content/chapter11/11.11-chinese.md)
+	* [11.11 完整例子:二项式](content/chapter11/11.11-chinese.md)
 	* [11.12 初步结果](content/chapter11/11.12-chinese.md)
 	* [11.13 本章总结](content/chapter11/11.13-chinese.md)
 * [第12章 WebCL：使用OpenCL加速Web应用]()
