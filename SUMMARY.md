@@ -94,7 +94,7 @@
 	* [12.3 同步机制](content/chapter12/12.3-chinese.md)
 	* [12.4 WebCL的交互性](content/chapter12/12.4-chinese.md)
 	* [12.5 应用实例](content/chapter12/12.5-chinese.md)
-	* [12.6 安全增强](content/chapter12/12.6-chinese.md)
+	* [12.6 增强安全性](content/chapter12/12.6-chinese.md)
 	* [12.7 服务器端使用WebCL](content/chapter12/12.7-chinese.md)
 	* [12.8 WebCL的状态和特性](content/chapter12/12.8-chinese.md)
 * [第13章 其他高级语言中OpenCL的使用]()
