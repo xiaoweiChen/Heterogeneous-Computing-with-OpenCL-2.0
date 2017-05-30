@@ -10,7 +10,7 @@ Heterogeneous Computing with OpenCL 2.0
 
 作为对《Heterogeneour Computing with OpenCL 2.0 (Thrid Edition)》英文版的中文翻译。
 
-本书将介绍在复杂环境下的OpenCL和并行编程。这里的复杂环境包含多种设备架构，比如：多芯CPU，GPU，以及完全集成的加速处理单元(APU)。在本修订版中将包含OpenCL2.0最新的改进：
+本书将介绍在复杂环境下的OpenCL和并行编程。这里的复杂环境包含多种设备架构，比如：多芯CPU，GPU，以及完全集成的加速处理单元(APU)。在本修订版中将包含OpenCL 2.0最新的改进：
 - 共享虚拟内存(*Shared virtual memory*)可增强编程的灵活性，从而能大幅度减少在数据转换上所消耗的资源和精力 
 - 动态并行(*Dynamic parallelism*)将减少处理器上的负载，并避免瓶颈出现
 - 对图像的支持有很大改善，并且集成OpenGL
