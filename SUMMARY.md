@@ -25,7 +25,7 @@
 	* [3.6 OpenCL运行时(例子)](content/chapter3/3.6-chinese.md)
 	* [3.7 OpenCL C++ Wapper向量加法](content/chapter3/3.7-chinese.md)
 	* [3.8 CUDA编程者使用OpenCL的注意事项](content/chapter3/3.8-chinese.md)
-* [第4章 实际OpenCL案例](content/chapter4/4.0-chinese.md)
+* [第4章 OpenCL案例](content/chapter4/4.0-chinese.md)
 	* [4.1 OpenCL实例](content/chapter4/4.1-chinese.md)
 	* [4.2 直方图](content/chapter4/4.2-chinese.md)
 	* [4.3 图像旋转](content/chapter4/4.3-chinese.md)
